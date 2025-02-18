@@ -1,4 +1,6 @@
 div{
     font-family: sans-serif, serif, system-ui, 'Segoe UI';
     color: rgba(255, 0, 60, 1);
+    text-align: center;
+    background-color: azure;
 }
